@@ -1,0 +1,12 @@
+python-nmap==0.7.1
+requests==2.31.0
+scapy==2.5.0
+cryptography==41.0.1
+colorama==0.4.6
+tqdm==4.65.0
+zxcvbn==4.4.28
+pyOpenSSL==23.2.0
+python-whois==0.8.0
+dnspython==2.3.0
+tldextract==3.4.4
+psutil==5.9.5 
